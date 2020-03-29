@@ -59,7 +59,7 @@
     height: 100%;
 }
 
-.navigation-wrapper .links-wrapper {
+ .links-wrapper {
     display: flex;
     justify-content: space-between;
     align-items: center;
