@@ -8,3 +8,33 @@
     background-repeat: no-repeat;
     background-size: cover;
 }
+
+.hero-section .top-heading {
+    padding: 1px 20px;
+    background-color: #11122b;
+    color: #cbcbcb;
+    width: 290px;
+    border-radius: 2px;
+}
+
+.hero-section .bottom-heading {
+    background-color: #cea135;
+    color: #11122b;
+    padding: 1px 20px;
+    margin-top: 15px;
+    width: 107px;
+    border-radius: 2px;
+}
+
+/* Features Section Styles */
+.features-section {
+    height: 400px;
+    background-image: url(../images/backgrounds/fries-multiply-bg.jpg);
+    background-color: #cea135;
+    border-top: 10px solid #11122b;
+    color: #11122b;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: "Ubuntu, Condensed", sans serif;
+}
